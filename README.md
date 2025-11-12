@@ -122,6 +122,6 @@ print(traversedpath)
  ### OUTPUT:
  
  <img width="543" height="249" alt="image" src="https://github.com/user-attachments/assets/e1b5efb2-94cc-4795-8a8d-0ea69e47e483" />
-
+### RESULT:
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
